@@ -1,5 +1,3 @@
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-
 <h3 align="center">🟢 Open to Work — Backend & Full Stack Engineer Opportunities (Golang / TypeScript / AWS)</h3>
  
 ```golang
